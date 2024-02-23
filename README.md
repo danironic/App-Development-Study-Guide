@@ -15,8 +15,7 @@
 ## [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
 - [ ] (0/126 Complete) - 28 hours
   
-
-    
+### Add other courses/books as I continue learning (never done!)
 
 
 
