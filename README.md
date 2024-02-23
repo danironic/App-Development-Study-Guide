@@ -1,7 +1,7 @@
 # Full-Stack Web Development Study Guide
 
 ## [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-- [ ] (0/149 Complete) - 37.5 hours
+- [ ] (11/149 Complete) - 37.5 hours
 
 ## [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [ ] (0/321 Complete) - 68.5 hours
