@@ -3,7 +3,7 @@
 ## [Introduction to Java Programming and Data Structures, Comprehensive Version (12th Edition)](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235)
 - [ ] (53/2193 Complete)
 
-  ![](https://geps.dev/progress/2.4167?dangerColor=800000&warningColor=ff9900&successColor=006600)
+  ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 
   
